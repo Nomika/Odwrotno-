@@ -13,7 +13,7 @@
                 }
                 document.getElementById("wynik").innerHTML = suma+" <sup>o</sup>F";
             }*/
-        var a = prompt('Wpisz lizbę');
+        var a = prompt('Wpisz lizbę');fuoyfouygpiu
         document.write(a + " ");
 
         var suma = a[2] + a[1] + a[0];
